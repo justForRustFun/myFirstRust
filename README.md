@@ -1,0 +1,2 @@
+# myFirstRust
+have fun
